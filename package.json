@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/tschmauch/LIRIapp#readme",
   "dependencies": {
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "inquirer": "^5.2.0",
+    "node-spotify-api": "^1.0.7",
+    "npm": "^5.8.0",
+    "omdb": "^0.8.0",
+    "twitter": "^1.7.1"
   }
 }
